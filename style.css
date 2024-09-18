@@ -1,0 +1,23 @@
+p{
+    color: rgb(196, 197, 255);
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 150px;
+    margin-right: 200px;
+    
+    
+}
+div{
+    padding-top: 200px;
+    padding-left: 140px;
+    padding-bottom: 250px;
+    padding-right: 300px;
+    color: blueviolet;
+
+}
+p.S{
+     border: 100px;
+     width: 200px;
+     height: 150px;
+     border-left-width: 160px;
+}
